@@ -1,0 +1,1 @@
+This is newFile inside the newBranch3 branch but has the same name file2.taxt which is inside the main branch.
